@@ -28,7 +28,7 @@ The **Snapscribe** is an AI-powered web app that generates descriptive captions 
 4. Users can download or use the caption as needed.
 
 ##  Applications in Real Life
-### 📷 Content Creation
+###  Content Creation
 - Helps bloggers, social media influencers, and journalists by automatically generating captions for their posts.
 
 ###  Accessibility
@@ -43,7 +43,7 @@ The **Snapscribe** is an AI-powered web app that generates descriptive captions 
 ###  E-commerce
 - Automatically generates product descriptions for online stores, saving time and improving marketing efforts.
 
-## 🏁 How to Run the Project
+##  How to Run the Project
 
 ->Install microanaconda
 ->Command prompt in vs code
@@ -72,5 +72,6 @@ This project is open-source and available under the **MIT License**.
 
 ---
 Install microanaconda
+
  Created by RIYA
 
