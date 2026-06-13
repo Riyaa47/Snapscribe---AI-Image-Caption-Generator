@@ -64,11 +64,6 @@ python -m caption_app(name of the file)
 ### Access the Web App**
 Once the script runs, open **localhost** or the **Gradio shareable link** in your browser to start generating captions.
 
-## Contributing
-Contributions are welcome! Feel free to fork this repository and submit pull requests for improvements.
-
-## License
-This project is open-source and available under the **MIT License**.
 
 ---
 Install microanaconda
